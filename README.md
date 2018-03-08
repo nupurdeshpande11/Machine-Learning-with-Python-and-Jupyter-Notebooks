@@ -1,0 +1,2 @@
+# Machine-Learning-with-Python-and-Jupyter-Notebooks
+Data Analysis using Python on Juptyer Notebook. EDA, Linear, Logistic Regression and Clustering Algorithms are performed on multiple datasets. Datasets are: 1. https://www.kaggle.com/nickhould/craft-cans/data(EDA and Clustering-KMeans and Hierarchical, Linear and Logistic Regression) 2. https://www.kaggle.com/grosvenpaul/family-income-and-expenditure/data (EDA, Linear and Logistic Regression) 3. https://www.kaggle.com/smid80/weatherww2/data (EDA and Data Visualization)
